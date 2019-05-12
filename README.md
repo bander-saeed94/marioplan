@@ -89,4 +89,13 @@ $ firebase deploy
 $ firebase deploy --only functions
 ```
 
+## Publish app
+
+### build react app
+
+```
+npm run build
+```
+
+copy files from build to dist folder
 
