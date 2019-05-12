@@ -99,3 +99,11 @@ npm run build
 
 copy files from build to dist folder
 
+### deploy react app
+
+```
+firebase deploy
+```
+
+## try it
+https://bander-marioplan.firebaseapp.com
