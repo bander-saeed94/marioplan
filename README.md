@@ -107,3 +107,6 @@ firebase deploy
 
 ## try it
 https://bander-marioplan.firebaseapp.com
+
+## learned with
+https://youtu.be/Oi4v5uxTY5o
